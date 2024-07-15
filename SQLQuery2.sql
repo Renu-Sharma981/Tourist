@@ -1,0 +1,1 @@
+﻿create table travel(username varchar(20),email varchar(30),password varchar(20),cpassword varchar(20));
